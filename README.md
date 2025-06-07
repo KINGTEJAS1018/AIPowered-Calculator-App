@@ -1,4 +1,4 @@
-# AI-Powered Calculator App
+# CalcAI : AI-Powered Calculator App
 
 This project is an AI-powered calculator that allows users to draw or write mathematical expressions, equations, or graphical math problems on a canvas. The app uses advanced AI (Google Gemini) to analyze the input and provide answers, supporting variable assignments, equation solving, and even abstract or graphical math problems.
 
